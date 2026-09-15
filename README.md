@@ -9,11 +9,11 @@ Made with turbowarp so you can package into a choice of yours.
 Waring Use at risk this Has: (and more)
 <br>
 <br>
-| 🎯 Targets / sprites   |     **44** |
+Targets / sprites  **44** 
 <br>
-| 🧱 Blocks              |    **726** |
+Blocks **726** 
 <br>
-| 📜 Top-level scripts   |    **195** |
+Top-level scripts   **195** 
 <br>
 | 🧮 Variables           |      **8** |
 <br>
